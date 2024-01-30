@@ -17,19 +17,19 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_marginTop="48dp"
-            android:text="Employee name" />
+            android:hint="Employee name" />
 
         <EditText
             android:id="@+id/id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="employee_id"
+            android:hint="employee_id"
             android:layout_below="@+id/employeename" />
         <EditText
             android:id ="@+id/dep"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="department"
+            android:hint="department"
             android:layout_below="@id/id"/>
         <Button
             android:id="@+id/button"
@@ -50,10 +50,10 @@
                 android:orientation="vertical">
 
                 <androidx.recyclerview.widget.RecyclerView
+                    android:nestedScrollingEnabled="true"
                     android:id="@+id/recyclerView"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:nestedScrollingEnabled="true" />
+                    android:layout_height="wrap_content" />
 
             </LinearLayout>
         </ScrollView>

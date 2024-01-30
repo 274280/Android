@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
@@ -16,5 +17,7 @@ public class Myviewholder extends RecyclerView.ViewHolder {
         this.id = itemview.findViewById(R.id.text2);
         this.salary= itemview.findViewById(R.id.text3);
         this.v = itemview;
+
+        Log.i("Myviewholder","myviewholder conmstructor");
     }
 }

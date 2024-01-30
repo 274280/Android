@@ -1,5 +1,6 @@
 package com.elektrobit.recyclerview;
 
+import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
@@ -16,5 +17,7 @@ public class EmployeeViewHolder extends RecyclerView.ViewHolder{
         id = itemView.findViewById(R.id.employee_id);
         dept = itemView.findViewById(R.id.employee_dept);
         view = itemView;
+
+        Log.i("Myviewholder","myviewholder conmstructor");
     }
 }

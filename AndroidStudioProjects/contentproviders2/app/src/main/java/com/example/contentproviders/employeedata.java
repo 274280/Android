@@ -6,8 +6,8 @@ import android.os.Bundle;
 
 public class employeedata {
     String name,id;
-    int salary;
-    employeedata(String name,String id, int salary) {
+    String salary;
+    employeedata(String name,String id, String salary) {
         this.name = name;
         this.id = id;
         this.salary=salary;

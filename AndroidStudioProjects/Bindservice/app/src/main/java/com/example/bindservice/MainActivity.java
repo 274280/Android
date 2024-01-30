@@ -13,13 +13,14 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    MyService myservice;
-    boolean Isbound;
+    MyService myservice = new MyService();
+    boolean Isbound = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Log.i("Main activity","oncreate");
     }
 
     @Override
@@ -29,16 +30,21 @@ public class MainActivity extends AppCompatActivity {
     }
     protected void onStop() {
         super.onStop();
-        unbindService(serviceConnection);
+        if(Isbound) {
+            Log.d("MyServiceExample", "ServiceConnection:Disconnected.");
+            unbindService(serviceConnection);
+        }
     }
 
     private void bindservice()  {
+        Log.i("Main activity","bindservice");
         Intent servicebind = new Intent(MainActivity.this,MyService.class);
         bindService(servicebind,serviceConnection, Context.BIND_AUTO_CREATE);
     }
     private ServiceConnection serviceConnection =  new ServiceConnection() {
         @Override
         public void onServiceConnected(ComponentName name, IBinder service) {
+            Log.i("Main activity","serviceconnection");
         MyService.Mybinder binder = (MyService.Mybinder) service;
         myservice = binder.getservice();
         Isbound = true;
@@ -54,7 +60,9 @@ public class MainActivity extends AppCompatActivity {
     };
     private void sum() {
        // Log.d("Myserviceexample", "sum of two numbers" + myservice.sumofno(3, 5));
+        Log.i("Main activity","sum");
         int a = myservice.sumofno(3, 5);
+        Log.i("Main activity","returned value");
         Toast.makeText(MainActivity.this,a,Toast.LENGTH_LONG).show();
     }
 

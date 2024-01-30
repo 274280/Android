@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         EditText result = findViewById(R.id.result);
         Button add = findViewById(R.id.add);
         Button sub = findViewById(R.id.subtract);
-        add.setOnClickListener(new View.OnClickListener() {
+        add.setOnClickListener(new View.OnClickListeneremul() {
             @Override
             public void onClick(View v) {
                 if (!num1.getText().toString().isEmpty() && !num2.getText().toString().isEmpty()) {
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
                         throw new RuntimeException(e);
                     }
                 } else {
-                    Toast.makeText(getApplicationContext(), "Both numbers nust me entered!!!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Both numbers must be entered!!!", Toast.LENGTH_SHORT).show();
                 }
             }
         });

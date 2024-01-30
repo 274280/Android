@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dd32c8c-4f68-46f2-b2cb-a623f83beb72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ClientApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../contentproviders2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Application2/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/androidTest/java/com/example/application2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/java/com/example/application2/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/app/src/test/java/com/example/application2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application2/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/androidTest/java/com/example/application4/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/java/com/example/application4/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/app/src/test/java/com/example/application4/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Application4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bindservice/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bindservice/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bindservice/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bindservice/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bindservice/app/src/main/java/com/example/bindservice/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bindservice/app/src/main/java/com/example/bindservice/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bindservice/app/src/main/java/com/example/bindservice/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bindservice/app/src/main/java/com/example/bindservice/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Broadcastreceiver/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Broadcastreceiver/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Broadcastreceiver/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../Broadcastreceiver/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Broadcastreceiver/app/src/main/java/com/example/broadcastreceiver/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Broadcastreceiver/app/src/main/java/com/example/broadcastreceiver/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Broadcastreceiver/app/src/main/java/com/example/broadcastreceiver/reciever.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Broadcastreceiver/app/src/main/java/com/example/broadcastreceiver/reciever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Broadcastreceiver/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Broadcastreceiver/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClientApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClientApp/ClientApp/app/src/main/java/com/elektrobit/client/clientapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientApp/ClientApp/app/src/main/java/com/elektrobit/client/clientapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication4/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication4/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/androidTest/java/com/example/myapplication5/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/java/com/example/myapplication5/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/app/src/test/java/com/example/myapplication5/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication5/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/androidTest/java/com/example/myapplication5/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/java/com/example/myapplication5/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/java/com/example/myapplication5/MyAdaptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/java/com/example/myapplication5/Myviewholder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/java/com/example/myapplication5/dataholder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/layout/activity_main3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/app/src/test/java/com/example/myapplication5/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication52/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/elektrobit/recyclerview/EmployeeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/elektrobit/recyclerview/EmployeeAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/elektrobit/recyclerview/EmployeeViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/elektrobit/recyclerview/EmployeeViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/elektrobit/recyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/elektrobit/recyclerview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicsapp/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basicsapp/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicsapp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basicsapp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicsapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basicsapp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicsapp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../basicsapp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contentproviders2/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contentproviders2/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contentproviders2/app/src/main/java/com/example/contentproviders/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../contentproviders2/app/src/main/java/com/example/contentproviders/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contentproviders2/app/src/main/java/com/example/contentproviders/MyAdaptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../contentproviders2/app/src/main/java/com/example/contentproviders/MyAdaptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contentproviders2/app/src/main/java/com/example/contentproviders/Myviewholder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../contentproviders2/app/src/main/java/com/example/contentproviders/Myviewholder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contentproviders2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contentproviders2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contentproviders2/app/src/main/res/layout/cardview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contentproviders2/app/src/main/res/layout/cardview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../services/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../services/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../services/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../services/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2bUBYsposM94psYiY5ZHfkrTKRI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/juna274280/Android/Android/AndroidStudioProjects/BoundServiceExample&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd32c8c-4f68-46f2-b2cb-a623f83beb72" name="Changes" comment="" />
+      <created>1706259828164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706259828164</updated>
+    </task>
+    <servers />
+  </component>
+</project>

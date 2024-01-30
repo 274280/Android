@@ -1,6 +1,7 @@
 package com.elektrobit.recyclerview;
 
 import android.content.Context;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -24,6 +25,7 @@ public class EmployeeAdapter extends RecyclerView.Adapter<EmployeeViewHolder> {
         this.employeeList = employeeList;
         this.listener = listener;
         this.context = context;
+        Log.i("MyAdaptor","MyAdaptor comstructor ");
     }
 
     @NonNull
@@ -35,6 +37,7 @@ public class EmployeeAdapter extends RecyclerView.Adapter<EmployeeViewHolder> {
                 = LayoutInflater.from(context);
         View employeeView = inflater.inflate(R.layout.one_card_layout, parent, false);
         EmployeeViewHolder viewHolder = new EmployeeViewHolder(employeeView);
+        Log.i("MyAdapter","oncreateviewholder executed");
         return viewHolder;
     }
 
@@ -44,6 +47,7 @@ public class EmployeeAdapter extends RecyclerView.Adapter<EmployeeViewHolder> {
         holder.name.setText(employeeList.get(position).name);
         holder.id.setText(employeeList.get(position).id);
         holder.dept.setText(employeeList.get(position).dept);
+        Log.i("MyAdapter","onbindviewholder executed");
         holder.view.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
